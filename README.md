@@ -40,7 +40,7 @@ Using different methods to find insights and areas to improve.
 Making easy-to-understand charts and graphs to show the results.
 
 ## Dashboard :
-  (https://github.com/shivani-data/Vrinda-Store-Analysis/blob/main/Vrinda%20Store%20Report%20.png?raw=true)
+  <img = https://github.com/shivani-data/Vrinda-Store-Analysis/blob/main/Vrinda%20Store%20Report%20.png?raw=true/>
   
 ## Project Insight :
 - Women customers are more likely to buy products compared to men (~65%).
