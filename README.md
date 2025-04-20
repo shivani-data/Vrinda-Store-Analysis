@@ -40,7 +40,7 @@ Using different methods to find insights and areas to improve.
 Making easy-to-understand charts and graphs to show the results.
 
 ## Dashboard :
-  <img src="Vrinda Store Report .png" height="200">
+  <img src="Vrinda Store Report .png" height="500">
   
 ## Project Insight :
 - Women customers are more likely to buy products compared to men (~65%).
