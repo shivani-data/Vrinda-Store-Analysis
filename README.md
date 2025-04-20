@@ -1,16 +1,15 @@
 # Vrinda-Store-Analysis
-## Vrinda Store Annual Report Dashboard Project! An interactive dashboard using MS Excel.
-
+### Vrinda Store Annual Report Dashboard Project! An interactive dashboard using MS Excel.
+· · · · · · · · · ·
 
 ## Objective :
   This project analyzes Vrinda Store's 2022 sales data to understand customer behavior and find trends that can help improve sales.
 
 
-### Tool Used :
+## Tool Used :
   Microsoft Excel
 
-
-**Key Questions and KPIs (What We Want to Find Out):**
+## Key Questions and KPIs (What We Want to Find Out):
 
 - How do sales and orders change over time?  
 - Which month had the highest sales and most orders?  
@@ -21,7 +20,7 @@
 - Which sales channel brings in the most sales?  
 
 
-**Process (How We’ll Do It):**
+## Process (How We’ll Do It):
 
 **1. Understanding Business Needs:**  
 Finding out what Vrinda Store wants to learn about their sales and customers.
