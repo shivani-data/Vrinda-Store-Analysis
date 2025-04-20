@@ -40,8 +40,8 @@ Using different methods to find insights and areas to improve.
 Making easy-to-understand charts and graphs to show the results.
 
 ## Dashboard :
-  (Vrinda%20Store%20Report%20.png)
-
+  (Vrinda Store Report .png)
+  
 ## Project Insight :
 - Women customers are more likely to buy products compared to men (~65%).
 - The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
