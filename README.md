@@ -2,7 +2,7 @@
 ## Vrinda Store Annual Report Dashboard Project! An interactive dashboard using MS Excel.
 
 
-### Objective :
+## Objective :
   This project analyzes Vrinda Store's 2022 sales data to understand customer behavior and find trends that can help improve sales.
 
 
