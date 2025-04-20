@@ -1,7 +1,5 @@
 # Vrinda-Store-Analysis
 ### Vrinda Store Annual Report Dashboard Project! An interactive dashboard using MS Excel.
-· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
-
 
 ## Objective :
   This project analyzes Vrinda Store's 2022 sales data to understand customer behavior and find trends that can help improve sales.
@@ -9,6 +7,9 @@
 
 ## Tool Used :
   Microsoft Excel
+
+## Dataset Used :
+  
 
 ## Key Questions and KPIs (What We Want to Find Out):
 
@@ -37,3 +38,15 @@ Using different methods to find insights and areas to improve.
 
 **5. Data Visualization:**  
 Making easy-to-understand charts and graphs to show the results.
+
+## Dashboard :
+  
+
+## Project Insight :
+- Women customers are more likely to buy products compared to men (~65%).
+- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+  
+## Final Conclusion:
+To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
