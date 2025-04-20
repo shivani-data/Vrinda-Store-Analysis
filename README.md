@@ -9,7 +9,7 @@
   Microsoft Excel
 
 ## Dataset Used :
-  
+  <a href="Vrinda Store Data Analysis.xlsx">Vrinda Store Data Set</a>
 
 ## Key Questions and KPIs (What We Want to Find Out):
 
@@ -50,3 +50,5 @@ Making easy-to-understand charts and graphs to show the results.
   
 ## Final Conclusion:
 To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+
+Thanks to [**@rishabhnmishra**](https://github.com/rishabhnmishra) for such a great Tutorial.
